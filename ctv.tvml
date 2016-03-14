@@ -1,0 +1,9 @@
+<document>
+
+      <title>Live WebTV | Compodium International AB</title>
+      <description>Live WebTV | Compodium International AB</description>
+      
+      <video src="http://stream.compodium.se/live/mp4:direkt/playlist.m3u8" autoplay="yes" preload="auto" controls width="auto" height="auto">
+      </video>
+      
+</document>
