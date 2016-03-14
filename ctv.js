@@ -12,7 +12,7 @@ function pushDoc(document) {
 }
  
 App.onLaunch = function(options) {
-    var templateURL = 'ctv.tvml';
+    var templateURL = 'ctv/ctv.tvml';
     getDocument(templateURL);
 }
  
