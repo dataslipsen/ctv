@@ -12,7 +12,7 @@ function pushDoc(document) {
 }
  
 App.onLaunch = function(options) {
-    var templateURL = 'https://github.com/dataslipsen/ctv/ctv.tvml';
+    var templateURL = 'https://raw.githubusercontent.com/dataslipsen/ctv/master/ctv.tvml';
     getDocument(templateURL);
 }
  
