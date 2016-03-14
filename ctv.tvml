@@ -6,16 +6,16 @@
                   </video>
             </background>
             
-      <menuBar>
-         <section>
-            <menuItem>
-               <title>LIVE</title>
-            </menuItem>
-            <menuItem>
-               <title>MORE</title>
-            </menuItem>
-         </section>
-      </menuBar>
+            <menuBar>
+                  <section>
+                        <menuItem>
+                              <title>LIVE</title>
+                        </menuItem>
+                        <menuItem>
+                              <title>MORE</title>
+                        </menuItem>
+                  </section>
+            </menuBar>
       
       </mainTemplate>
 </document>
