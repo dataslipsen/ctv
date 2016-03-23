@@ -2,7 +2,7 @@
       <mainTemplate>
       
             <background>
-                  <img src="http://webbtv.compodium.se/bilder/color_bars_1121.jpg">
+                  <img src="http://webbtv.compodium.se/bilder/color_bars_1121.jpg" />
             </background>
             
             <menuBar>
