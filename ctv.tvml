@@ -2,7 +2,7 @@
       <mainTemplate>
       
             <background>
-                  <video src="http://stream.compodium.se/live/mp4:direkt/playlist.m3u8" autoplay="yes" preload="auto" controls="yes" width="auto" height="auto"></video>
+                  <img src="http://webbtv.compodium.se/bilder/color_bars_1121.jpg">
             </background>
             
             <menuBar>
