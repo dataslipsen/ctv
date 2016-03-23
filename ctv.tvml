@@ -2,7 +2,7 @@
       <mainTemplate>
       
             <background>
-                  <img src="color_bars_1121.jpg" />
+                  <img src="https://raw.githubusercontent.com/dataslipsen/ctv/master/color_bars_1121.jpg" />
             </background>
             
             <menuBar>
