@@ -8,10 +8,10 @@
             <menuBar>
                   <section>
                         <menuItem>
-                              <title>LIVE</title>
+                              <title>Live</title>
                         </menuItem>
                         <menuItem>
-                              <title>MORE</title>
+                              <title>On-demand</title>
                         </menuItem>
                   </section>
             </menuBar>
