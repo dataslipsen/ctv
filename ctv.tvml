@@ -2,6 +2,7 @@
       <mainTemplate>
       
             <background>
+                  <asset id="live" src="http://213.134.125.15:1935/live/direkt/playlist.m3u8">
                   <img src="https://static1.squarespace.com/static/5502ba3ae4b08ccd37240d4f/t/560a7956e4b02465d40ecf33/1443527008868/start.png?format=2500w" />
             </background>
             
